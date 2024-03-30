@@ -1,0 +1,28 @@
+.Moh {
+    border-radius: 40%;
+}
+
+#hero {
+    background-color: #212121;
+    padding: 120px;
+    margin: 0%;
+}
+
+#examples {
+    background-color: #323232;
+    padding: 7%;
+}
+
+#skills {
+    background-color: #6F4C5B;
+}
+
+#why-me {
+    background-color: #323232;
+    padding: 11%;
+}
+
+#footer {
+    background-color: #212121;
+    padding: 9%;
+}
